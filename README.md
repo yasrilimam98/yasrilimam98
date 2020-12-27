@@ -1,11 +1,11 @@
-# L YASRIL IMAM <img src="https://github.com/yasrilimam98/yasrilimam-readme/blob/main/Assets/Developer.gif" width="30px">
+# L YASRIL IMAM <img src="https://github.com/yasrilimam98/yasrilimam-readme/Assets/Developer.gif" width="30px">
 
 
 <!-- 
     &nbsp; [![HitCount](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode.svg)](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode) 
 -->
 
-### <img src="https://github.com/yasrilimam98/yasrilimam-readme/blob/main/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/yasrilimam98/yasrilimam-readme/blob/main/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/yasrilimam98/yasrilimam-readme/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/yasrilimam98/yasrilimam-readme/blob/main/Assets/Earth.gif" width="24px">
 
 <p>
   <em>
