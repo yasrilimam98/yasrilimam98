@@ -1,4 +1,4 @@
-# L YASRIL IMAM <img src="https://github.com/yasrilimam98/yasrilimam-readme/Assets/Developer.gif" width="30px">
+# L YASRIL IMAM <img src="https://github.com/yasrilimam98/Assets/Developer.gif" width="30px">
 
 
 <!-- 
