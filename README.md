@@ -1,16 +1,16 @@
-# L YASRIL IMAM <img src="https://github.com/yasrilimam98/Assets/Developer.gif" width="30px">
+# L YASRIL IMAM 
 
 
 <!-- 
     &nbsp; [![HitCount](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode.svg)](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode) 
 -->
 
-### <img src="https://github.com/yasrilimam98/yasrilimam-readme/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/yasrilimam98/yasrilimam-readme/blob/main/Assets/Earth.gif" width="24px">
+ **Hello world!** 
 
 <p>
   <em>
     Hi! <a href="https://yasrilimam98.github.io/"> <b>I love math and </b>I'm passionate about being a data scientist.</a>.  
-     I love learning Data Visualization, Data Mining, Machine Learning <b>Besides that i also have skills in the field of Mobile Development</b> <img src="https://github.com/yasrilimam98/yasrilimam-readme/blob/main/Assets/Developer.gif" width="30px">, Videography <b>Design    Enthusiast,</b>&nbsp;<img src=https://github.com/yasrilimam98/yasrilimam-readme/blob/main/Assets/Designer.gif" width="36px"> 
+     I love learning Data Visualization, Data Mining, Machine Learning <b>Besides that i also have skills in the field of Mobile Development</b>  Videography <b>Design    Enthusiast,</b>&nbsp;
   </em>  
 </p>
 
