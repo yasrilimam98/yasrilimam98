@@ -36,7 +36,7 @@
 
 
 
-[<img src="https://github.com/yasrilimam98/yasrilimam-readme/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/l-yasril-imam-950abb155/)  [<img src="https://github.com/yasrilimam98/yasrilimam-readme/blob/main/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/yasrieel)  [<img src="https://github.com/yasrilimam98/yasrilimam-readme/blob/main/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/yasril.imam/) [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/yasrilimam98)  [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@yasrilimam)
+<img src="https://github.com/yasrilimam98/yasrilimam-readme/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/l-yasril-imam-950abb155/)  [<img src="https://github.com/yasrilimam98/yasrilimam-readme/blob/main/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/yasrieel)  [<img src="https://github.com/yasrilimam98/yasrilimam-readme/blob/main/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/yasril.imam/) [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/yasrilimam98)  [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@yasrilimam)
 <br>
 <br>
 
