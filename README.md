@@ -27,18 +27,22 @@
 
 
 <br>
+ 
 
+## My Statistics
 
-![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=yasrilimam98&show_icons=true&hide_border=true)
-
-
-# Connect with me<img src="https://github.com/yasrilimam98/yasrilimam-readme/blob/main/Assets/Handshake.gif" height="32px">
-
-
-
-<img src="https://github.com/yasrilimam98/yasrilimam-readme/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/l-yasril-imam-950abb155/)  [<img src="https://github.com/yasrilimam98/yasrilimam-readme/blob/main/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/yasrieel)  [<img src="https://github.com/yasrilimam98/yasrilimam-readme/blob/main/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/yasril.imam/) [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/yasrilimam98)  [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@yasrilimam)
+<br/>
+<p align="left">
+  <a href="https://luthfiyah-sakinah.web.app/">
+  <img width="36.3%" src="https://github-readme-stats.vercel.app/api?username=LuthfiyahS&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="36.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=LuthfiyahS&theme=gruvbox&hide_border=true" />
+	  <img width="26.3%"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuthfiyahS&layout=compact&langs_count=8&theme=gruvbox&hide_border=true"/>
+  </a>
+</p>
 <br>
-<br>
+
+
+  <!--[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6)-->
 
 
 
