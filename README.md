@@ -31,7 +31,7 @@
 
 ## My Statistics
 
-<br/>
+<!-- <br/>
 <p align="left">
   <a href="https://luthfiyah-sakinah.web.app/">
   <img width="36.3%" src="https://github-readme-stats.vercel.app/api?username=LuthfiyahS&show_icons=true&theme=gruvbox&hide_border=true" />
@@ -39,7 +39,7 @@
 	  <img width="26.3%"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuthfiyahS&layout=compact&langs_count=8&theme=gruvbox&hide_border=true"/>
   </a>
 </p>
-<br>
+<br> -->
 
 
   <!--[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6)-->
